@@ -32,6 +32,6 @@ I really wish I was more fluent in using TikZ as it produces such beautiful diag
 
 ## Notes to Self
 
-- The package `sagetex.sty` is loaded automatically by `markolsonassessment.sty`.  I use sagetex to include SageMath in almost all my assessments, so it is included here.  If you do not have SageMath installed and the necessary package file, then you shoud remove this package from `markolsonassessment.sty`.  
+- The package `sagetex.sty` is loaded automatically by `markolsonassessment.sty`.  I use sagetex to include SageMath in almost all my assessments, so it is included here.  If you do not have SageMath installed and the necessary package file, then you shoud remove the inlcude package call from `markolsonassessment.sty`.  
 - For the templates available on Overleaf, I have removed the `sagetex.sty` and all tikz-euclide from the style files.  This is a self-reminder to manually make these changes to the Overleaf template after updating.
 
