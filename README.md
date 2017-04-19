@@ -1,6 +1,6 @@
 # LatexAssessmentTemplates-SSHL
 
-LaTeX Assessment Templates for generating quizzes, tests and exams for Mathematics courses taught at SSHL within the IB Diploma, GY2011 and MYP programmes.
+LaTeX Assessment Templates for generating quizzes, tests and exams for Mathematics courses taught at SSHL within the IB Diploma, GY2011 and MYP programmes.  This template is available on [overleaf](https://www.overleaf.com/latex/templates/assessment-templates-for-sshl/zrxzjxbzbxdc#.WPbh-FOGOjk)
 
 ![Assessment Screenshot](https://github.com/markolsonse/LatexAssessmentTemplates-SSHL/raw/master/LatexAssessment.png)
 
